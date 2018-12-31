@@ -1,6 +1,6 @@
 # ShipsContainers API
 
-ShipsContainers is an API for the interview challenge described in this [document](/challenge.pdf).
+ShipsContainers is an API for the interview challenge described in the challenge.
 
   - Type some Markdown on the left
   - See HTML in the right
