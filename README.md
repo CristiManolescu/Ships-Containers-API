@@ -2,12 +2,8 @@
 
 ShipsContainers is an API for the interview challenge described in the challenge.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # How to run
-Run in IntelliJ or Eclipse the main class _ShipsContainersMain_ and try the endpoints in the browser or a software such as PostMan.
+Run in IntelliJ or Eclipse the main class [ShipsContainersMain](/src/main/java/com/cargomate/shipscontainers/ShipsContainersMain.java) and try the endpoints in the browser or a software such as PostMan.
 
 # API Endpoints
 
